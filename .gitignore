@@ -1,0 +1,13 @@
+node_modules/
+dist/
+outputs/
+uploads/
+temp/
+*.log
+.DS_Store
+transcriber/.venv/
+transcriber/__pycache__/
+tools/ffmpeg/*
+tools/yt-dlp/*
+!tools/ffmpeg/.gitkeep
+!tools/yt-dlp/.gitkeep
