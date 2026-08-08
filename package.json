@@ -12,9 +12,9 @@
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.18.3",
+    "express": "^4.22.2",
     "lucide-react": "^0.468.0",
-    "multer": "^2.1.1",
+    "multer": "^2.2.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
@@ -24,9 +24,9 @@
     "@types/multer": "^1.4.11",
     "@types/react": "^18.3.18",
     "@types/react-dom": "^18.3.5",
-    "@vitejs/plugin-react": "^4.3.4",
-    "concurrently": "^9.1.0",
+    "@vitejs/plugin-react": "^6.0.5",
+    "concurrently": "^9.2.4",
     "typescript": "^5.7.3",
-    "vite": "^6.0.7"
+    "vite": "^8.2.0"
   }
 }
